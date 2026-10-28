@@ -1,5 +1,4 @@
 import 'package:edge_log/data/local/app_database.dart';
-import 'package:edge_log/data/local/tables/pairs_table.dart';
 
 class PairRepository {
   PairRepository(this._db);
